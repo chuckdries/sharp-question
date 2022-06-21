@@ -1,0 +1,11 @@
+{
+  "name": "sharp-question",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chuck Dries <chuck@chuckdries.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chroma-js": "^2.4.2",
+    "sharp": "^0.30.6"
+  }
+}
